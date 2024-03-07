@@ -1,4 +1,7 @@
 İlk satır eklendi
-ikinci satırı Master'da da değiştirdim
 Yeni satır (Master)
 Master  satırı
+ikinci satırı yeniden değiştirdim Hatta 3. kez değiştirdim Feature-3 ile
+Feature-3  satırı
+
+Son satır
