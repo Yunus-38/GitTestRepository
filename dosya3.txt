@@ -1,4 +1,4 @@
-Yeni satır eklendi
-ikinci satır eklendi ama ben değiştirdim
+İlk satır eklendi
+ikinci satırı yeniden değiştirdim
 
-Feature-2  satırı
+Feature-3  satırı
